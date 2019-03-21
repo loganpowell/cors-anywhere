@@ -1,6 +1,6 @@
 *.swp
 *.tmp
 *.log
-
+.idea/
 coverage/
 node_modules/
